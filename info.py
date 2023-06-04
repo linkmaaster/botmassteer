@@ -5,4 +5,4 @@ SESSION      = "BQGPjGQAOaNYX_v4xOMeXJrkvWVhzhsMv1kOxXytESUiaDmjcWRS7izvhedx9-Ve
 DATABASE_URI = "mongodb+srv://tophdmovie:CsqxGggNR2Zkniii@cluster0.xhh9ygu.mongodb.net/?retryWrites=true&w=majority"
 LOG_CHANNEL  = -1001270272068
 ADMIN        = 6239341929
-CHANNEL      = "@link_stoorage"
+CHANNEL      = "https://t.me/link_stoorage"
